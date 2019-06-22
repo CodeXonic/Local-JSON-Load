@@ -1,0 +1,30 @@
+[
+    {
+        "name" :  "Anshul Gupta",
+        "age" : "19",
+        "height" : "170",
+        "gender" : "male",
+        "hair_color" : "black"
+    },
+    {
+        "name" :  "Anshul varshney",
+        "age" : "20",
+        "height" : "170",
+        "gender" : "male",
+        "hair_color" : "black"
+    },
+    {
+        "name" :  "Ansh ",
+        "age" : "19",
+        "height" : "170",
+        "gender" : "male",
+        "hair_color" : "brown"
+    },
+    {
+        "name" :  "Any G",
+        "age" : "20",
+        "height" : "170",
+        "gender" : "male",
+        "hair_color" : "blue"
+    }
+]
